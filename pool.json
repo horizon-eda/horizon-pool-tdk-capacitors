@@ -1,0 +1,9 @@
+{
+    "default_via": "00000000-0000-0000-0000-000000000000",
+    "name": "TDK chip capacitors",
+    "pools_included": [
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+    ],
+    "type": "pool",
+    "uuid": "60eec687-e03f-4311-94b3-71e16f14faa2"
+}
